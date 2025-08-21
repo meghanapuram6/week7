@@ -4,7 +4,7 @@ agent any
 stages {
 stage('Clone Repository') {
 steps {
-git url: 'https://github.com/sriludone/Week-2.git', branch: 'main'
+git url: ' https://github.com/meghanapuram6/week7.git', branch: 'master'
 }
 }
 
